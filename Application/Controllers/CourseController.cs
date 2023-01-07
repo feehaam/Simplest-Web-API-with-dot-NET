@@ -2,7 +2,7 @@
 using DataAccessLayer.Model;
 using Microsoft.AspNetCore.Mvc;
 
-namespace asingment.Controllers
+namespace ApplicationLayer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

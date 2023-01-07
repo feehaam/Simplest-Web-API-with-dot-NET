@@ -1656,11 +1656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\VS\\dotnet_assignment\\Application\\ApplicationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\New folder\\Simplest-Web-API-with-dot-NET\\Application\\ApplicationLayer.csproj",
       "projectName": "ApplicationLayer",
-      "projectPath": "D:\\Code\\VS\\dotnet_assignment\\Application\\ApplicationLayer.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\New folder\\Simplest-Web-API-with-dot-NET\\Application\\ApplicationLayer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\VS\\dotnet_assignment\\Application\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\New folder\\Simplest-Web-API-with-dot-NET\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1677,8 +1677,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Code\\VS\\dotnet_assignment\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\Code\\VS\\dotnet_assignment\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\User\\OneDrive\\Desktop\\New folder\\Simplest-Web-API-with-dot-NET\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\New folder\\Simplest-Web-API-with-dot-NET\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }

@@ -1,10 +1,10 @@
-﻿using asingment.Dto;
+﻿using ApplicationLayer.DTO;
 using AutoMapper;
 using DataAccessLayer.Model;
 
-namespace asingment.Helper
+namespace ApplicationLayer.Map
 {
-    public class MappintProfiles: Profile
+    public class MappintProfiles : Profile
     {
         public MappintProfiles()
         {

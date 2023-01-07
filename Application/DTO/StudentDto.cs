@@ -1,6 +1,6 @@
 ﻿using DataAccessLayer.Model;
 
-namespace asingment.Dto
+namespace ApplicationLayer.DTO
 {
     public class StudentDto
     {

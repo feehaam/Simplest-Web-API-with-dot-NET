@@ -1,4 +1,4 @@
-﻿namespace asingment.Dto
+﻿namespace ApplicationLayer.DTO
 {
     public class CourseDto
     {
