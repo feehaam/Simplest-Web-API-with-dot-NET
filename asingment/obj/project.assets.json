@@ -1656,9 +1656,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\VS\\dotnet_assignment\\asingment\\asingment.csproj",
-      "projectName": "asingment",
-      "projectPath": "D:\\Code\\VS\\dotnet_assignment\\asingment\\asingment.csproj",
+      "projectUniqueName": "D:\\Code\\VS\\dotnet_assignment\\asingment\\ApplicationLayer.csproj",
+      "projectName": "ApplicationLayer",
+      "projectPath": "D:\\Code\\VS\\dotnet_assignment\\asingment\\ApplicationLayer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\VS\\dotnet_assignment\\asingment\\obj\\",
       "projectStyle": "PackageReference",
